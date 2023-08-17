@@ -1,6 +1,8 @@
+import Heading from "@/components/Heading";
+
 const Contact = () => (
     <>
-    <h2>Konstantin</h2>
+    <Heading text="Konstantin" />
     </>
   )
 
